@@ -18,6 +18,9 @@ campeón superando unos retos aún mayores.
   <img src="https://github.com/PandaGamingClassroom/grumpiStore/blob/main/src/assets/Logo_v0.1_sinFondo.png" alt="Logo Grumpis" width="300"/>
 </p>
 
+<p align="center">
+  <img src="https://github.com/PandaGamingClassroom/grumpiStore/blob/main/src/assets/grumpis/Nifu.png" alt="Logo Grumpis" width="300"/>
+</p>
 
 <!--
 **PandaGamingClassroom/PandaGamingClassroom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
