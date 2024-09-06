@@ -1,7 +1,7 @@
 ## Saludos 👋
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div style="flex: 1;">
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="flex: 1; padding-right: 20px;">
     <p>
       El proyecto de **gamificación** que presentamos, actúa como elemento complementario al proceso de enseñanza-aprendizaje, ya que pretende profundizar y reforzar en diversos aspectos que se han trabajado en el aula. Para ello, se proponen diversas tareas que podrán realizar de manera autónoma o en grupo, vinculadas a las diferentes áreas de conocimiento que propone el currículo educativo, así como de otras vinculadas a la inteligencia emocional.
     </p>
