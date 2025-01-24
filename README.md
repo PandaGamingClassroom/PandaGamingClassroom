@@ -16,6 +16,22 @@
   </tr>
 </table>
 
+## 🔧 Tecnologías y herramientas
+- **Frontend:** Angular  
+- **Backend:** Node.js  
+- **Bases de datos:** SQLite  
+- **DevOps:** Render, Vercel, GitHub Actions
+
+## 📈 Estadísticas de mi GitHub
+<!-- Puedes usar servicios como https://github.com/anuraghazra/github-readme-stats para personalizar -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PandaGamingClassroom&show_icons=true&theme=radical)
+
+## 📫 Conéctate conmigo
+- ✨ [Instagram](https://www.instagram.com/losgrumpi/)  
+- 🐦 [Twitter](https://x.com/Los_Grumpi)  
+
+- 📧 **Email**: gamificacionpanda@gmail.com
+  
 <p align="center">
   <img src="https://github.com/PandaGamingClassroom/grumpiStore/blob/main/src/assets/Logo_v0.1_sinFondo.png" alt="Logo Grumpis" width="300"/>
 </p>
